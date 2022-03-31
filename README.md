@@ -1,4 +1,4 @@
-# Repository template
+# Template repository
 
 ## Description 
 
