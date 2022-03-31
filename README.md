@@ -8,8 +8,6 @@ In this repo you'll find the basic files all MeiliSearch repositories should con
 - Open source license: the year should be changed
 - README: changes required
 - Contributing guidelines: changes required
-- Pull request template: may require changes
-- Issue templates: may require changes
 - Code of conduct : no changes required
 - Security policy: no changes required
 
@@ -18,8 +16,6 @@ In this repo you'll find the basic files all MeiliSearch repositories should con
 | Open source license       | 📝    | 
 | README                    | 📝    | 
 | Contributing guidelines   | 📝    | 
-| Pull request template     | 📝    | 
-| Issue templates           | 📝    |
 | Code of conduct           | 🚫    |
 | Security policy           | 🚫    | 
 
@@ -48,10 +44,6 @@ Consider adding the following elements to your contributing guidelines:
 - How to contribute (PR protocol...)
 - Where to ask for help
 
-### About the issue and PR templates 
-
-Issue and PR templates are located in the `.github/` directory. 
-Project contributors will automatically see the templates' contents in the issue or the PR body. You can learn more about issue and PR templates in the [GitHub documentation](https://docs.github.com/en/communities/using-templates-to-encourage-useful-issues-and-pull-requests/configuring-issue-templates-for-your-repository).
 
 ## Contributing to this template repository
 
