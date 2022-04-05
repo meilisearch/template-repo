@@ -7,7 +7,7 @@ Be aware of XXX in sentences and links: they should be replaced by the actual re
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meilisearch/devrel/main/assets/meilisearch-icon.svg" alt="XXX" width="200" height="200" />
+  <img src="https://github.com/meilisearch/meilisearch/blob/main/assets/logo.svg" alt="XXX" width="200" height="200" />
 </p>
 
 <h1 align="center">Project title</h1>
